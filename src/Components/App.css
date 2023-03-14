@@ -1,0 +1,13 @@
+#root {
+    font-family: 'Almarai', sans-serif;
+    background-color: rgb(4, 6, 19);
+    min-height: 100vh;
+}
+.tx {
+    text-decoration: none;
+    color:#0dcaf0;
+    
+}
+.cardbody {
+    background-color: #e9e9ee;
+}

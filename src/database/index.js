@@ -1,0 +1,16 @@
+export const db = [
+    {id:Math.floor(Math.random() * 16505),img:'1.jpeg',title:'وجبة فطار' ,description:'وجبة صحية نافعة تحتوي على كل المكونات التي يحتاجها البدن',price:'50 جنية ' ,category:'فطار'},
+    {id:Math.floor(Math.random() * 16505),img:'2.jpg',title:'وجبة غداء' ,description:'وجبة صحية نافعة تحتوي على كل المكونات التي يحتاجها البدن',price:'100 جنية ' ,category:'غداء'},
+    {id:Math.floor(Math.random() * 16505),img:'3.jpeg',title:'وجبة عشاء' ,description:'وجبة صحية نافعة تحتوي على كل المكونات التي يحتاجها البدن',price:'70 جنية ' ,category:'عشاء'},
+    {id:Math.floor(Math.random() * 16505),img:'4.jpg',title:'وجبة فطار' ,description:'وجبة صحية نافعة تحتوي على كل المكونات التي يحتاجها البدن',price:'20 جنية ' ,category:'فطار'},
+    {id:Math.floor(Math.random() * 16505),img:'5.jpeg',title:'وجبة عشاء' ,description:'وجبة صحية نافعة تحتوي على كل المكونات التي يحتاجها البدن',price:'30 جنية ' ,category:'عشاء'},
+    {id:Math.floor(Math.random() * 16505),img:'6.jpeg',title:'وجبة سناك' ,description:'وجبة صحية نافعة تحتوي على كل المكونات التي يحتاجها البدن',price:'40 جنية ' ,category:'سناك'},
+    {id:Math.floor(Math.random() * 16505),img:'7.jpg',title:'وجبة غداء' ,description:'وجبة صحية نافعة تحتوي على كل المكونات التي يحتاجها البدن',price:'56 جنية ' ,category:'غداء'},
+    {id:Math.floor(Math.random() * 16505),img:'10.jpg',title:'وجبة سي فوود' ,description:'وجبة صحية نافعة تحتوي على كل المكونات التي يحتاجها البدن',price:'150 جنية ' ,category:'سي فوود'},
+    {id:Math.floor(Math.random() * 16505),img:'8.jpg',title:'وجبة سي فوود' ,description:'وجبة صحية نافعة تحتوي على كل المكونات التي يحتاجها البدن',price:'100 جنية ' ,category:'سي فوود'},
+    {id:Math.floor(Math.random() * 16505),img:'11.jpg',title:'وجبة عشاء' ,description:'وجبة صحية نافعة تحتوي على كل المكونات التي يحتاجها البدن',price:'170 جنية ' ,category:'عشاء'},
+    {id:Math.floor(Math.random() * 16505),img:'9.jpg',title:'وجبة فطار' ,description:'وجبة صحية نافعة تحتوي على كل المكونات التي يحتاجها البدن',price:'201 جنية ' ,category:'فطار'},
+    {id:Math.floor(Math.random() * 16505),img:'12.jpg',title:'وجبة عشاء' ,description:'وجبة صحية نافعة تحتوي على كل المكونات التي يحتاجها البدن',price:'300 جنية ' ,category:'عشاء'},
+    {id:Math.floor(Math.random() * 16505),img:'13.jpg',title:'وجبة سناك' ,description:'وجبة صحية نافعة تحتوي على كل المكونات التي يحتاجها البدن',price:'20 جنية ' ,category:'سناك'},
+    {id:Math.floor(Math.random() * 16505),img:'14.jpg',title:'وجبة سي فوود' ,description:'وجبة صحية نافعة تحتوي على كل المكونات التي يحتاجها البدن',price:'56 جنية ' ,category:'سي فوود'},
+];
